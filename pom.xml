@@ -34,7 +34,7 @@
         <connection>scm:git:git://github.com/facebook/presto-hive-apache.git</connection>
         <developerConnection>scm:git:git://github.com/facebook/presto-hive-apache.git</developerConnection>
         <url>https://github.com/facebook/presto-hive-apache</url>
-        <tag>HEAD</tag>
+        <tag>0.15</tag>
     </scm>
 
     <properties>
