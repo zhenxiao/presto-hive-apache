@@ -9,10 +9,10 @@
     </parent>
 
     <groupId>com.facebook.presto.hive</groupId>
-    <artifactId>hive-apache</artifactId>
-    <version>0.15-SNAPSHOT</version>
+    <artifactId>presto-hive-apache</artifactId>
+    <version>0.15</version>
 
-    <name>hive-apache</name>
+    <name>presto-hive-apache</name>
     <description>Shaded version of Apache Hive for Presto</description>
     <url>https://github.com/facebook/presto-hive-apache</url>
 
